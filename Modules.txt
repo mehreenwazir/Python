@@ -1,0 +1,28 @@
+                      Python:
+      Modules:
+              Modules are used  to burrow someone else's code. 
+              With the help of modules we can use someone else's code
+              in our program.
+      Kinds of Modules:
+       There are 2 kinds of Modules:
+       01: Built-in Modules:
+                Built-in Modules are the modules  which ship along 
+                 with the Python Programming Language which means 
+                 that we don't need to install them externally.
+       02:External Modules:
+               External Module is a code written by people and they 
+                want you to use their code in your Python Program.
+               (External Modules are installed using pip. Pip is a package
+                manager, it install whatever the module you ask for from the
+                internet in your Python interpreter.)
+       Why we use Modules:
+              We use Modules because we don't want to code basic programs 
+               from scratch.
+              The code written in Modules is well-tested and is written by 
+               experts.
+            Many people have used it so there are very less chances for error.
+            It save your time and efforts which you can use to work on some
+             bigger projects.
+            
+        
+ 
